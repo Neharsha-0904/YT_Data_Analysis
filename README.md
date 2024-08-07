@@ -1,7 +1,3 @@
-Here’s a README for the YouTube Trending Video Analysis Project styled similarly:
-
----
-
 # YouTube Trending Video Analysis Project 📈🎥▶️
 
 Welcome to the YouTube Trending Video Analysis Project! This project delves into the trending videos on YouTube in the United States to uncover insights about video popularity, engagement metrics, and more.
